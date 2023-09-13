@@ -116,3 +116,30 @@ h1 {
     margin: 5px 20px 0px 20px;
 }
 
+/* Quote */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #6C757D;
+    padding:  0 200px;
+}
+
+.quote p {
+    font-size: 36px;
+    color: #F8F9FA;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+.quote b {
+    padding-bottom: 20px;
+    padding-right: 10px;
+    font-family: sans-serif;
+    text-align: right;
+    font-size: 28px;
+    color: #F8F9FA;
+    font-weight: lighter;
+}
+
